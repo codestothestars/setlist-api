@@ -13,3 +13,6 @@
 
 # Vagrant environment
 .vagrant
+
+# Visual Studio Code workspace
+.vscode
